@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Favourites"
+        android:title="Favourite"
+        android:icon="@drawable/ic_baseline_favorite_border_24"
+        android:iconTint="@color/accent"/>
+
+    <item
+       android:id="@+id/rateUs"
+        android:icon="@drawable/ic_outline_star_rate_24"
+        android:iconTint="@color/accent"
+         android:title="Rate Us"/>
+
+    <item
+        android:id="@+id/ShareApp"
+        android:iconTint="@color/accent"
+        android:icon="@drawable/ic_outline_share_24"
+        android:title="Share App"/>
+
+    <item
+        android:id="@+id/AboutUs"
+        android:icon="@drawable/ic_outline_info_24"
+        android:iconTint="@color/accent"
+        android:title="About Us"/>
+
+    <item
+        android:id="@+id/feedback"
+        android:icon="@drawable/ic_outline_feedback_24"
+        android:iconTint="@color/accent"
+        android:title="Feedback"/>
+
+
+
+
+</menu>
